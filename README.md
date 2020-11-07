@@ -1,2 +1,3 @@
-# ineuron-sub
-Submission for ineuron
+# ineuron-submission
+
+Image scapper project
